@@ -2,7 +2,7 @@
 PRGORAM MADED  BY Sellami Med Abd Elhadi
 Facebook : <Missing Breath>
 Email :  <philippe.fernandez.2002@gmail.com>
-
+This Program is A Simple Piano Maded On Code Blocks c/c++
 Thank You!!
 
 */
